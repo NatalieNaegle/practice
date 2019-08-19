@@ -9,5 +9,10 @@ namespace firstStuff
             Console.WriteLine("Second try!");
             Console.ReadLine();
         }
+
+        private void doTheThing()
+        {
+            //whatever
+        }
     }
 }
