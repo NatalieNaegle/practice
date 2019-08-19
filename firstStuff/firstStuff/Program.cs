@@ -10,5 +10,10 @@ namespace firstStuff
             //stuff that nat did in main
             Console.ReadLine();
         }
+
+        private void doTheThing()
+        {
+            //whatever
+        }
     }
 }
